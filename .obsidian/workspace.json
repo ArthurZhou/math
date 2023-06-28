@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "素材/26-4.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "素材/26-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "素材/26-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "素材/26-4.md"
               }
             }
           }
@@ -145,11 +145,11 @@
   },
   "active": "987e930f444f0809",
   "lastOpenFiles": [
+    "Index.md",
     "素材/26-4.md",
     "素材/26-3.md",
     "素材/Untitled.canvas",
     "Attachment",
-    "Index.md",
     "素材/26-1.md",
     "素材/26-2.md",
     "2023-06-28.md",
