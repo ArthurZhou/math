@@ -11,15 +11,24 @@
             "id": "987e930f444f0809",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "46b8645e18e2367e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "素材/26-4.md",
-                "mode": "preview",
+                "file": "比例线段.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "素材/26-4.md",
+                "file": "比例线段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "素材/26-4.md",
+                "file": "比例线段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "素材/26-4.md"
+                "file": "比例线段.md"
               }
             }
           }
@@ -143,8 +152,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "987e930f444f0809",
+  "active": "46b8645e18e2367e",
   "lastOpenFiles": [
+    "比例线段.md",
     "Index.md",
     "素材/26-4.md",
     "素材/26-3.md",
