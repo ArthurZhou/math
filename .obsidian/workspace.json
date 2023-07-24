@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "比例线段.md",
+                "file": "相似三角形模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "比例线段.md",
+                "file": "相似三角形模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "比例线段.md",
+                "file": "相似三角形模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "比例线段.md"
+                "file": "相似三角形模型.md"
               }
             }
           }
@@ -155,7 +155,7 @@
   },
   "active": "46b8645e18e2367e",
   "lastOpenFiles": [
-    "比例线段.md",
+    "相似三角形模型.md",
     "Index.md",
     "素材/26-4.md",
     "素材/26-3.md",
