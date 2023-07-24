@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2990bbde78d75321",
+        "id": "d314332965157eda",
         "type": "tabs",
         "children": [
           {
-            "id": "987e930f444f0809",
+            "id": "8d0075dcb1fce3bd",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "46b8645e18e2367e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "相似三角形模型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0cfa518a08a8b5e4",
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相似三角形模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相似三角形模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "相似三角形模型.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,19 +135,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46b8645e18e2367e",
+  "active": "8d0075dcb1fce3bd",
   "lastOpenFiles": [
-    "Pasted image 20230724174411.png",
-    "Pasted image 20230724174118.png",
-    "Pasted image 20230724174054.png",
-    "Pasted image 20230724173150.png",
-    "Pasted image 20230724173009.png",
-    "Pasted image 20230724172916.png",
-    "Pasted image 20230724172831.png",
-    "Pasted image 20230724172609.png",
-    "Pasted image 20230724172224.png",
-    "Pasted image 20230724172213.png",
     "相似三角形模型.md",
+    "assets/Pasted image 20230724172213.png",
+    "Untitled.md",
+    "assets",
+    "images",
+    "assets/Pasted image 20230724174411.png",
+    "assets/Pasted image 20230724174118.png",
+    "assets/Pasted image 20230724174054.png",
+    "assets/Pasted image 20230724173150.png",
+    "assets/Pasted image 20230724173009.png",
+    "assets/Pasted image 20230724172916.png",
+    "assets/Pasted image 20230724172831.png",
+    "assets/Pasted image 20230724172609.png",
+    "assets/Pasted image 20230724172224.png",
     "Index.md",
     "素材/26-4.md",
     "素材/26-3.md",
