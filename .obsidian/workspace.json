@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bec031e04cbec3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "图形翻折和旋转.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "0cfa518a08a8b5e4",
@@ -145,22 +157,21 @@
   },
   "active": "8d0075dcb1fce3bd",
   "lastOpenFiles": [
-    "assets/Pasted image 20230903171616.png",
-    "assets/Pasted image 20230903170614.png",
-    "相似三角形模型",
+    "图形翻折和旋转.md",
+    "assets/射影定理.png",
+    "assets/Pasted image 20230724172916.png",
+    "assets/Pasted image 20230724173009.png",
+    "assets/Pasted image 20230724174118.png",
     "相似三角形模型.md",
+    "assets/斜a字.png",
+    "assets/一线三垂直.png",
+    "assets/Pasted image 20230724172831.png",
+    "assets/8字形.png",
     "assets/Pasted image 20230724172213.png",
-    "Untitled.md",
+    "assets/四点共圆.png",
+    "相似三角形模型",
     "assets",
     "images",
-    "assets/Pasted image 20230724174411.png",
-    "assets/Pasted image 20230724174118.png",
-    "assets/Pasted image 20230724174054.png",
-    "assets/Pasted image 20230724173150.png",
-    "assets/Pasted image 20230724173009.png",
-    "assets/Pasted image 20230724172916.png",
-    "assets/Pasted image 20230724172831.png",
-    "assets/Pasted image 20230724172609.png",
     "Index.md",
     "素材/26-4.md",
     "素材/26-3.md",
