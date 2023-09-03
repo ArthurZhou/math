@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "相似三角形模型.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4063d6e753a4b2de",
+  "active": "8d0075dcb1fce3bd",
   "lastOpenFiles": [
     "相似三角形模型",
     "相似三角形模型.md",
