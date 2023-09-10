@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d314332965157eda",
+        "id": "9f23298f3f185bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "bec031e04cbec3c9",
+            "id": "ab7f3986850572d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,11 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bec031e04cbec3c9",
+  "active": "ab7f3986850572d1",
   "lastOpenFiles": [
-    "相似三角形/图形翻折和旋转.md",
     "assets/相似三角形/8字形.png",
     "相似三角形/相似三角形模型.md",
+    "相似三角形/图形翻折和旋转.md",
     "assets/相似三角形",
     "相似三角形",
     "assets/相似三角形/蝴蝶形.png",
