@@ -11,9 +11,11 @@
             "id": "bec031e04cbec3c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/斜a字.png"
+                "file": "图形翻折和旋转.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/斜a字.png",
+                "file": "图形翻折和旋转.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/斜a字.png",
+                "file": "图形翻折和旋转.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/斜a字.png"
+                "file": "图形翻折和旋转.md"
               }
             }
           }
@@ -141,13 +143,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4063d6e753a4b2de",
+  "active": "bec031e04cbec3c9",
   "lastOpenFiles": [
+    "assets/蝴蝶形.png",
     "相似三角形模型.md",
-    "assets/斜a字.png",
     "图形翻折和旋转.md",
-    "assets/8字形.png",
     "assets/斜a字.png",
+    "assets/8字形.png",
     "assets/a字形.png",
     "assets/一线三垂直.png",
     "assets/四点共圆.png",
