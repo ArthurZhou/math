@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图形翻折和旋转.md",
+                "file": "相似三角形/相似三角形模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图形翻折和旋转.md",
+                "file": "相似三角形/相似三角形模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图形翻折和旋转.md",
+                "file": "相似三角形/相似三角形模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图形翻折和旋转.md"
+                "file": "相似三角形/相似三角形模型.md"
               }
             }
           }
@@ -145,15 +145,17 @@
   },
   "active": "bec031e04cbec3c9",
   "lastOpenFiles": [
-    "assets/蝴蝶形.png",
-    "相似三角形模型.md",
-    "图形翻折和旋转.md",
-    "assets/斜a字.png",
-    "assets/8字形.png",
-    "assets/a字形.png",
-    "assets/一线三垂直.png",
-    "assets/四点共圆.png",
-    "assets/射影定理.png",
+    "相似三角形/图形翻折和旋转.md",
+    "assets/相似三角形/8字形.png",
+    "相似三角形/相似三角形模型.md",
+    "assets/相似三角形",
+    "相似三角形",
+    "assets/相似三角形/蝴蝶形.png",
+    "assets/相似三角形/斜a字.png",
+    "assets/相似三角形/a字形.png",
+    "assets/相似三角形/一线三垂直.png",
+    "assets/相似三角形/四点共圆.png",
+    "assets/相似三角形/射影定理.png",
     "assets/Pasted image 20230724172916.png",
     "assets/Pasted image 20230724173009.png",
     "assets/Pasted image 20230724174118.png",
