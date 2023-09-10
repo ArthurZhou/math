@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab7f3986850572d1",
+            "id": "bf906b009eee2966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相似三角形/相似三角形模型.md",
+                "file": "方程/韦达定理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相似三角形/相似三角形模型.md",
+                "file": "方程/韦达定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相似三角形/相似三角形模型.md",
+                "file": "方程/韦达定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相似三角形/相似三角形模型.md"
+                "file": "方程/韦达定理.md"
               }
             }
           }
@@ -143,10 +143,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab7f3986850572d1",
+  "active": "bf906b009eee2966",
   "lastOpenFiles": [
-    "assets/相似三角形/8字形.png",
     "相似三角形/相似三角形模型.md",
+    "方程/韦达定理.md",
+    "方程",
+    "assets/相似三角形/8字形.png",
     "相似三角形/图形翻折和旋转.md",
     "assets/相似三角形",
     "相似三角形",
