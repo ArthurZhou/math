@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "777e0372716f00d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相似三角形/相似三角形模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:数学/几何",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "锐角三角比/正余弦定理.md",
+                "file": "相似三角形/相似三角形模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "锐角三角比/正余弦定理.md",
+                "file": "相似三角形/相似三角形模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "锐角三角比/正余弦定理.md"
+                "file": "相似三角形/相似三角形模型.md"
               }
             }
           },
@@ -153,18 +166,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cedf3842e6021aa",
+  "active": "777e0372716f00d7",
   "lastOpenFiles": [
-    "相似三角形/相似三角形模型.md",
     "相似三角形/斯氏定理.md",
-    "assets/Pasted image 20230917153715.png",
+    "相似三角形/图形翻折和旋转.md",
     "方程/韦达定理.md",
     "锐角三角比/正余弦定理.md",
+    "相似三角形/相似三角形模型.md",
+    "assets/Pasted image 20230917153715.png",
     "assets/Pasted image 20230917151848.png",
     "锐角三角比",
     "方程",
     "assets/相似三角形/8字形.png",
-    "相似三角形/图形翻折和旋转.md",
     "assets/相似三角形",
     "相似三角形",
     "assets/相似三角形/蝴蝶形.png",
