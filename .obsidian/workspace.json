@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相似三角形/斯氏定理.md",
+                "file": "锐角三角比/正余弦定理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相似三角形/斯氏定理.md",
+                "file": "锐角三角比/正余弦定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相似三角形/斯氏定理.md",
+                "file": "锐角三角比/正余弦定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相似三角形/斯氏定理.md"
+                "file": "锐角三角比/正余弦定理.md"
               }
             }
           },
@@ -155,9 +155,9 @@
   },
   "active": "0cedf3842e6021aa",
   "lastOpenFiles": [
-    "assets/Pasted image 20230917153715.png",
     "相似三角形/相似三角形模型.md",
     "相似三角形/斯氏定理.md",
+    "assets/Pasted image 20230917153715.png",
     "方程/韦达定理.md",
     "锐角三角比/正余弦定理.md",
     "assets/Pasted image 20230917151848.png",
@@ -174,7 +174,6 @@
     "assets/相似三角形/四点共圆.png",
     "assets/相似三角形/射影定理.png",
     "assets/Pasted image 20230724172916.png",
-    "assets/Pasted image 20230724173009.png",
     "相似三角形模型",
     "assets",
     "images",
