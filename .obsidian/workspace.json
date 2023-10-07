@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "圆/圆幂定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "圆/圆幂定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "同余/同余性质.md"
+                "file": "圆/圆幂定理.md"
               }
             }
           },
@@ -176,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4063d6e753a4b2de",
+  "active": "716596c0ad396312",
   "lastOpenFiles": [
-    "圆/圆幂定理.md",
     "同余/同余性质.md",
+    "圆/圆幂定理.md",
     "Untitled",
     "同余",
     "assets/Pasted image 20231007224847.png",
