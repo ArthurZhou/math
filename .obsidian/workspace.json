@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相似三角形/相似三角形模型.md",
+                "file": "锐角三角比/特殊角的三角比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "716596c0ad396312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "圆/切线割线切割线定理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "相似三角形/相似三角形模型.md",
+                "file": "圆/切线割线切割线定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相似三角形/相似三角形模型.md",
+                "file": "圆/切线割线切割线定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相似三角形/相似三角形模型.md"
+                "file": "圆/切线割线切割线定理.md"
               }
             }
           },
@@ -166,13 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "777e0372716f00d7",
+  "active": "4063d6e753a4b2de",
   "lastOpenFiles": [
+    "锐角三角比/特殊角的三角比.md",
+    "圆/切线割线切割线定理.md",
+    "圆",
+    "锐角三角比/正余弦定理.md",
+    "方程/立方和立方差.md",
+    "相似三角形/相似三角形模型.md",
     "相似三角形/斯氏定理.md",
     "相似三角形/图形翻折和旋转.md",
     "方程/韦达定理.md",
-    "锐角三角比/正余弦定理.md",
-    "相似三角形/相似三角形模型.md",
     "assets/Pasted image 20230917153715.png",
     "assets/Pasted image 20230917151848.png",
     "锐角三角比",
