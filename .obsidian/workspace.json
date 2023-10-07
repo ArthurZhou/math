@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8953f3ce0b6eba10",
+        "id": "103bc2bb753d4e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "0cedf3842e6021aa",
+            "id": "cd7d3ce66d44209c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锐角三角比/正余弦定理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "777e0372716f00d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锐角三角比/特殊角的三角比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "716596c0ad396312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "圆/圆幂定理.md",
-                "mode": "source",
+                "file": "方程/立方和立方差.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "圆/圆幂定理.md",
+                "file": "方程/立方和立方差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "圆/圆幂定理.md",
+                "file": "方程/立方和立方差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "圆/圆幂定理.md"
+                "file": "方程/立方和立方差.md"
               }
             }
           },
@@ -178,37 +153,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716596c0ad396312",
+  "active": "cd7d3ce66d44209c",
   "lastOpenFiles": [
-    "同余/同余性质.md",
+    "锐角三角比/特殊角的三角比.md",
+    "锐角三角比/正余弦定理.md",
     "圆/圆幂定理.md",
+    "assets/锐角三角比/正余弦定理.png",
+    "assets/相似三角形/斯氏定理.png",
+    "assets/锐角三角比",
+    "方程/立方和立方差.md",
+    "方程/韦达定理.md",
+    "相似三角形/图形翻折和旋转.md",
+    "相似三角形/相似三角形模型.md",
+    "相似三角形/斯氏定理.md",
+    "assets/圆/切割线定理.png",
+    "assets/圆",
+    "assets/圆/相交弦定理.png",
+    "assets/圆/割线定理.png",
+    "assets/Pasted image 20231007224847.png",
+    "assets/Pasted image 20231007224306.png",
+    "同余/同余性质.md",
     "Untitled",
     "同余",
-    "assets/Pasted image 20231007224847.png",
-    "assets/Pasted image 20231007224622.png",
-    "assets/Pasted image 20230917151848.png",
-    "assets/Pasted image 20230917153715.png",
-    "assets/Pasted image 20231007224306.png",
     "assets/Pasted image 20231007223959.png",
     "assets/Pasted image 20231007223947.png",
     "assets/Pasted image 20231007223944.png",
-    "锐角三角比/特殊角的三角比.md",
     "圆",
-    "锐角三角比/正余弦定理.md",
-    "方程/立方和立方差.md",
-    "相似三角形/相似三角形模型.md",
-    "相似三角形/斯氏定理.md",
-    "相似三角形/图形翻折和旋转.md",
-    "方程/韦达定理.md",
     "锐角三角比",
     "方程",
-    "assets/相似三角形/8字形.png",
     "assets/相似三角形",
     "相似三角形",
-    "assets/相似三角形/蝴蝶形.png",
     "相似三角形模型",
-    "assets",
-    "images",
     "Index.md",
     "素材/26-4.md",
     "素材/26-3.md",
