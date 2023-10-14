@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方程/立方和立方差.md",
+                "file": "锐角三角比/特殊角的三角比.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方程/立方和立方差.md",
+                "file": "锐角三角比/特殊角的三角比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方程/立方和立方差.md",
+                "file": "锐角三角比/特殊角的三角比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方程/立方和立方差.md"
+                "file": "锐角三角比/特殊角的三角比.md"
               }
             }
           },
@@ -155,14 +155,14 @@
   },
   "active": "cd7d3ce66d44209c",
   "lastOpenFiles": [
+    "方程/韦达定理.md",
+    "方程/立方和立方差.md",
     "锐角三角比/特殊角的三角比.md",
     "锐角三角比/正余弦定理.md",
     "圆/圆幂定理.md",
     "assets/锐角三角比/正余弦定理.png",
     "assets/相似三角形/斯氏定理.png",
     "assets/锐角三角比",
-    "方程/立方和立方差.md",
-    "方程/韦达定理.md",
     "相似三角形/图形翻折和旋转.md",
     "相似三角形/相似三角形模型.md",
     "相似三角形/斯氏定理.md",
