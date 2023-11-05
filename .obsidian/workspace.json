@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锐角三角比/特殊角的三角比.md",
-                "mode": "preview",
+                "file": "锐角三角比/两脚和差倍三角比公式.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "锐角三角比/特殊角的三角比.md",
+                "file": "锐角三角比/两脚和差倍三角比公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "锐角三角比/特殊角的三角比.md",
+                "file": "锐角三角比/两脚和差倍三角比公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "锐角三角比/特殊角的三角比.md"
+                "file": "锐角三角比/两脚和差倍三角比公式.md"
               }
             }
           },
@@ -155,9 +155,10 @@
   },
   "active": "cd7d3ce66d44209c",
   "lastOpenFiles": [
+    "锐角三角比/特殊角的三角比.md",
+    "锐角三角比/两脚和差倍三角比公式.md",
     "方程/韦达定理.md",
     "方程/立方和立方差.md",
-    "锐角三角比/特殊角的三角比.md",
     "锐角三角比/正余弦定理.md",
     "圆/圆幂定理.md",
     "assets/锐角三角比/正余弦定理.png",
